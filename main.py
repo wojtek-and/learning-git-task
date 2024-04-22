@@ -1,6 +1,6 @@
 lista_zakupów = {
     "piekarnia": ["chleb", "bułki", "pączek", "ciastko"],
-    "warzywniak": ["marchew", "seler", "rukola"]
+    "warzywniak": ["marchew", "seler", "rukola", "sałata"]
 }
 
 for shop, products in lista_zakupów.items():
