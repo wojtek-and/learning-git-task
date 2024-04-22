@@ -8,3 +8,4 @@ for shop, products in lista_zakupów.items():
     print(f"Idę do {shop.capitalize()} i kupuję tu następujące rzeczy: {product_capital}.")
 
 print(f"W sumie kupuję {len(lista_zakupów['piekarnia']) + len(lista_zakupów['warzywniak'])} produktów.")
+print("Takie to są zakupy.")
